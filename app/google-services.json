@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462913090706",
+    "project_id": "assignment-a5aeb",
+    "storage_bucket": "assignment-a5aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462913090706:android:88064fffde4712a4b3224b",
+        "android_client_info": {
+          "package_name": "id.co.arya.dansassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462913090706-dftrf9fo59er5fopm7ejdqob6jj5ahce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLISUgu5SIPHiEBr2WSjyg17xeZmoLm_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462913090706-dftrf9fo59er5fopm7ejdqob6jj5ahce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

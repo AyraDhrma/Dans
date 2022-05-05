@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DansAssignment</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_account">Account</string>
+    <string name="job_list">JOB LIST</string>
+    <string name="search">Search</string>
+    <string name="fulltime">Fulltime</string>
+    <string name="location">Location</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="job_detail">Job Detail</string>
+    <string name="company">Company</string>
+    <string name="job_specification">Job Specification</string>
+</resources>
